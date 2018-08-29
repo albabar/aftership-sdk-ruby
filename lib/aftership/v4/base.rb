@@ -1,4 +1,4 @@
-require 'httpclient'
+# require 'httpclient'
 require 'json'
 
 module AfterShip
